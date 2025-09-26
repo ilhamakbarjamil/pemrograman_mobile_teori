@@ -13,7 +13,7 @@ Berikut adalah beberapa tangkapan layar dari aplikasi ini:
 ### Halaman Login (Versi Simulasi AI)
 <!-- Sisipkan screenshot halaman login di sini. Contoh: -->
 <!-- ![Screenshot Login Page AI](screenshots/login_ai.png) -->
-![Screenshot Halaman Login](assets/login_page.png)
+![Screenshot Halaman Login](assets/login.png)
 
 ### Halaman Dashboard (Versi Simulasi AI)
 <!-- Sisipkan screenshot halaman dashboard di sini. Contoh: -->
