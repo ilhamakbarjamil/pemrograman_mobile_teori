@@ -18,7 +18,7 @@ Berikut adalah beberapa tangkapan layar dari aplikasi ini:
 ### Halaman Dashboard (Versi Simulasi AI)
 <!-- Sisipkan screenshot halaman dashboard di sini. Contoh: -->
 <!-- ![Screenshot Dashboard Page AI](screenshots/dashboard_ai.png) -->
-(Silakan tambahkan screenshot halaman dashboard versi AI di sini)
+![Screenshot Halaman Dashboard](assets/tampilan_dashboard.png)
 
 
 ## Fitur Utama (Versi Simulasi AI)
